@@ -1,0 +1,11 @@
+C:\Users\ASUS\Test\Server\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Test\Server\BL\bin\Debug\BL.dll
+C:\Users\ASUS\Test\Server\BL\bin\Debug\BL.pdb
+C:\Users\ASUS\Test\Server\BL\bin\Debug\DAL.dll
+C:\Users\ASUS\Test\Server\BL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Test\Server\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\ASUS\Test\Server\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ASUS\Test\Server\BL\obj\Debug\BL.dll
+C:\Users\ASUS\Test\Server\BL\obj\Debug\BL.pdb
+C:\Users\ASUS\Test\Server\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Test\Server\BL\bin\Debug\Newtonsoft.Json.xml

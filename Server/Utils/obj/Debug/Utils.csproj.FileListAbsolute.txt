@@ -1,0 +1,17 @@
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\Utils.dll
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\Utils.pdb
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\MailKit.dll
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\MimeKit.dll
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\MailKit.pdb
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\MailKit.xml
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\MimeKit.pdb
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\MimeKit.xml
+C:\Users\ASUS\Test\Server\Utils\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Test\Server\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\ASUS\Test\Server\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Test\Server\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\ASUS\Test\Server\Utils\obj\Debug\Utils.dll
+C:\Users\ASUS\Test\Server\Utils\obj\Debug\Utils.pdb
